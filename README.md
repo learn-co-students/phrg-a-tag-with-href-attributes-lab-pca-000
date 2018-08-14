@@ -18,6 +18,10 @@ Another great way to track your progress is to open up the HTML document in your
 
 Once you have the HTML document open in your browser, you can make changes to it in the text editor, save the file, refresh the page in the browser, and see the changes instantly.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-a-tag-with-href-attributes-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-a-tag-with-href-attributes-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 * [W3S — HTML `<a>` Tag](https://www.w3schools.com/tags/tag_a.asp)
